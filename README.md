@@ -1,7 +1,5 @@
 # 🏦 Bankist - Modern Banking Interface
 
-![Bankist App Screenshot](./bankist-screenshot.png) _Add your screenshot here_
-
 A minimalist banking application that simulates core banking operations with a clean, user-friendly interface. Built with vanilla JavaScript as part of Jonas Schmedtmann's "The Ultimate React Course 2025".
 
 ## ✨ Features
